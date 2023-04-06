@@ -7,10 +7,6 @@ q
 Asrc/main/java/me/dio/gameawards/service/impl/GameServiceImpl.java,1\3\1389ac473f3e94bae600b857208223a22b54e098
 r
 Bsrc/main/java/me/dio/gameawards/controller/BaseRestController.java,6\f\6f068ba6049267cc77cffd4111eb00bccf2c7ddd
-f
-6src/main/java/me/dio/gameawards/domain/model/Game.java,a\e\ae68bb5245a2739d187718713b77d21111c9ef51
-x
-Hsrc/main/java/me/dio/gameawards/controller/games/GameRestController.java,3\4\343d2a3fa3ea676b1e0ed9c83806018c776247a8
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 7
